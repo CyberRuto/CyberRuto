@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security and Computer Science.
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me in my profile.
 
 <!---
 CyberRuto/CyberRuto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
